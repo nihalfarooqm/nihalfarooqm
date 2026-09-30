@@ -17,11 +17,28 @@ Here are some ideas to get you started:
 # Hi, I'm Nihal Farooq! 👋
 ### Machine Learning & Data Science Student
 
+<!-- 1. DYNAMIC TYPING ANIMATIONS (Typing SVG) -->
+<p align="center">
+  <a href="https://git.io">
+    <img src="https://demolab.com" alt="Typing SVG" />
+  </a>
+</p>
+
+---
 Automating workflows, exploring core mathematical architectures, and building production-ready AI models. Currently sharpening my engineering toolkit through rigorous full-time technical studies.
 
 ---
 
 ## 🚀 Technical Focus Areas
+
+<!-- 2. SKILL BADGES (Skillicons.dev) -->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev" alt="My Skills" />
+  </a>
+</p>
+
+---
 * **Machine Learning:** Supervised & Unsupervised learning architecture, mathematical optimization, model governance, and validation.
 * **Core Ecosystem:** Building efficient pipelines using `scikit-learn`, `NumPy`, `Pandas`, and custom diagnostic scripts.
 * **Environments & Tooling:** Proficient in Anaconda virtual environment management (`ml_env`) and structured workflows in VS Code.
@@ -50,6 +67,14 @@ I maintain a master repository tracking my extensive, multi-phase technical curr
 * Mastering deployment frameworks for scalable enterprise applications.
 * Building out rich, end-to-end portfolios showcasing structural code organization.
 
+## 🏆 GitHub Milestones
+<!-- 3. GITHUB README TROPHIES -->
+<p align="left">
+  <a href="https://github.com">
+    <img src="https://vercel.app" alt="nihalfarooqm's Trophies" />
+  </a>
+</p>
+
 Let's connect! 💼 https://www.linkedin.com/in/nihalfarooqm | 📧 qooraflahin@gmail.com
 
 
@@ -59,5 +84,72 @@ Let's connect! 💼 https://www.linkedin.com/in/nihalfarooqm | 📧 qooraflahin@
   <img alt="Github Snake Animation" src="https://raw.githubusercontent.com/nihalfarooqm/nihalfarooqm/output/github-contribution-grid-snake.svg">
 </picture>
 
+-------------------------
+
+# Hi, I'm Nihal Farooq! 👋
+
+<!-- DYNAMIC TYPING ANIMATIONS (Typing SVG) -->
+<p align="left">
+  <a href="https://git.io">
+    <img src="https://demolab.com" alt="Typing SVG" />
+  </a>
+</p>
+
+Automating workflows, exploring core mathematical architectures, and building production-ready AI models. Currently sharpening my engineering toolkit through rigorous full-time technical studies.
+
+---
+
+### 🛠️ Toolbelt, Frameworks & Skills
+<!-- SKILL BADGES (Skillicons.dev) -->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev" alt="My Skills" />
+  </a>
+</p>
+
+* **Machine Learning:** Supervised & Unsupervised learning architecture, mathematical optimization, model governance, and validation.
+* **Core Ecosystem:** Building efficient pipelines using scikit-learn, NumPy, Pandas, and custom diagnostic scripts.
+* **Environments & Tooling:** Proficient in Anaconda virtual environment management (`ml_env`) and structured workflows in VS Code.
+* **Advanced Exploration:** Experimenting with workflows using embedded IoT systems and workflow automation.
+
+---
+
+### 📅 Weekly Learning Journey (Bro_Files)
+I maintain a master repository tracking my extensive, multi-phase technical curriculum.
+
+* **Core Diagnostics & Foundations:** Data preprocessing, statistical validation tests, data wrangling pipelines.
+* **Supervised Frameworks:** Classical classification, deep dive regressions, feature selection matrices.
+* **Production & Architecture:** Model serving configurations, system modularization, and codebase management.
+
+---
+
+### 📈 Goals & Aspirations
+* Deepening skills in production-grade data modeling pipelines.
+* Mastering deployment frameworks for scalable enterprise applications.
+* Building out rich, end-to-end portfolios showcasing structural code organization.
+
+---
+
+### 🏆 GitHub Milestones
+<!-- FIXED GITHUB README TROPHIES -->
+<p align="left">
+  <a href="https://github.com">
+    <img src="https://vercel.app" alt="nihalfarooqm's Trophies" />
+  </a>
+</p>
+
+---
+
+### 🤝 Let's Connect!
+💼 [LinkedIn](https://www.linkedin.com/in/nihalfarooqm) | 📧 qooraflahin@gmail.com
+
+<br />
+
+<!-- GITHUB SNAKE ANIMATION -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nihalfarooqm/nihalfarooqm/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nihalfarooqm/nihalfarooqm/output/github-contribution-grid-snake.svg">
+  <img alt="Github Snake Animation" src="https://raw.githubusercontent.com/nihalfarooqm/nihalfarooqm/output/github-contribution-grid-snake.svg">
+</picture>
 
 
