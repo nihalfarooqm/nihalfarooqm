@@ -51,3 +51,6 @@ I maintain a master repository tracking my extensive, multi-phase technical curr
 * Building out rich, end-to-end portfolios showcasing structural code organization.
 
 Let's connect! 💼 https://www.linkedin.com/in/nihalfarooqm | 📧 qooraflahin@gmail.com
+
+
+![Github Snake Animation](https://github.com)
