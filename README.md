@@ -54,9 +54,10 @@ Let's connect! 💼 https://www.linkedin.com/in/nihalfarooqm | 📧 qooraflahin@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="[https://githubusercontent.com](https://raw.githubusercontent.com/nihalfarooqm/nihalfarooqm/output/github-contribution-grid-snake-dark.svg)">
-  <source media="(prefers-color-scheme: light)" srcset="[https://githubusercontent.com](https://raw.githubusercontent.com/nihalfarooqm/nihalfarooqm/output/github-contribution-grid-snake.svg)">
-  <img alt="Github Snake Animation" src="[https://githubusercontent.com](https://raw.githubusercontent.com/nihalfarooqm/nihalfarooqm/output/github-contribution-grid-snake.svg)">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nihalfarooqm/nihalfarooqm/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nihalfarooqm/nihalfarooqm/output/github-contribution-grid-snake.svg">
+  <img alt="Github Snake Animation" src="https://raw.githubusercontent.com/nihalfarooqm/nihalfarooqm/output/github-contribution-grid-snake.svg">
 </picture>
+
 
 
