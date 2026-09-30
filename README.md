@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 <!-- DYNAMIC TYPING ANIMATIONS (Typing SVG) -->
 <p align="left">
   <a href="https://github.com/nihalfarooqm">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=650&lines=Data+Science+%26+Machine+Learning;Building+Production-Ready+AI+Systems;Exploring+Mathematics+Behind+ML;Automating+Workflows+%26+Data+Pipelines" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&width=700&lines=Data+Science+%26+Machine+Learning;Exploring+the+Mathematics+Behind+ML;Building+ML+APIs+%26+Data+Pipelines;Learning+Cloud+Deployment+%26+MLOps" alt="Typing SVG" />
   </a>
 </p>
 
-Automating workflows, exploring core mathematical architectures, and building production-ready AI models. Currently sharpening my engineering toolkit through rigorous full-time technical studies.
+Automating workflows, exploring the mathematics behind machine learning, and building practical AI systems. Currently strengthening my foundations in data science, machine learning, APIs, cloud deployment, and software engineering through structured technical studies.
 
 ---
 
@@ -32,14 +32,15 @@ Automating workflows, exploring core mathematical architectures, and building pr
 <!-- SKILL BADGES (Skillicons.dev) -->
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,tensorflow,pytorch,fastapi,django,git,github,docker,linux,anaconda,jupyter,vscode&perline=8" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,tensorflow,pytorch,fastapi,django,git,github,docker,gcp,linux,anaconda,jupyter,vscode,pycharm&perline=8" alt="My Skills" />
   </a>
 </p>
 
-* **Machine Learning:** Supervised & unsupervised learning, mathematical optimization, model validation, and ML system development.
-* **Core Ecosystem:** Building efficient data and ML pipelines using Python, scikit-learn, NumPy, Pandas, and custom diagnostic tools.
-* **Environments & Tooling:** Working with Anaconda environments, JupyterLab, Linux/WSL, Git, Docker, and modern Python development workflows.
-* **Advanced Exploration:** Exploring ML APIs, cloud deployment, containerization, embedded/IoT systems, and workflow automation.
+* **Machine Learning:** Supervised & unsupervised learning, model evaluation, feature engineering, mathematical foundations, and ML system development.
+* **Data Science:** Building data preprocessing, analysis, visualization, and machine learning pipelines with Python and the scientific Python ecosystem.
+* **Development & APIs:** Developing ML APIs with FastAPI and working with Django-based applications and REST APIs.
+* **Environments & Tooling:** Anaconda, JupyterLab, Linux/WSL, PyCharm, Git, GitHub, and Docker.
+* **Cloud & Deployment:** Exploring containerized ML applications, cloud deployment, and practical MLOps workflows using Google Cloud.
 
 ---
 
@@ -59,14 +60,16 @@ I maintain a master repository tracking my extensive, multi-phase technical curr
 
 ---
 
+<!--
 ### 🏆 GitHub Milestones
 <!-- GITHUB PROFILE TROPHIES -->
+<!--
 <p align="left">
   <a href="https://github.com/nihalfarooqm">
     <img src="https://github-profile-trophy.vercel.app/?username=nihalfarooqm&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" alt="nihalfarooqm's GitHub Trophies" />
   </a>
 </p>
-
+-->
 ---
 
 ### 🤝 Let's Connect!
